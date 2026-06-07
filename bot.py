@@ -1,9 +1,4 @@
-# Copy the entire code above
-# Save (Ctrl+X, Y, Enter)
-
-git add bot.py
-git commit -m "Complete redesign: Back buttons, no web URLs, play bingo button"
-git push origin mainimport logging
+import logging
 import os
 import sys
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
