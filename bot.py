@@ -35,7 +35,7 @@ ACCOUNTS = {
 }
 
 # Website/Game URL (for instructions only)
-GAME_URL = "https://www.joy-game-center.web.app"
+GAME_URL = "https://joy-game-center.web.app"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Send welcome message with main menu."""
